@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lambdaworks</groupId>
+  <artifactId>lettuce</artifactId>
+  <versioning>
+    <release>2.3.3-FERDI</release>
+    <versions>
+      <version>2.3.3-FERDI</version>
+    </versions>
+    <lastUpdated>20130906074205</lastUpdated>
+  </versioning>
+</metadata>
